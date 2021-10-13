@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d2ef4752-f658-43f2-90a8-7bc6422d0492" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Apache\repository" />
+        <option name="mavenHome" value="F:/Apache/maven" />
+        <option name="userSettingsFile" value="F:\Apache\maven\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1xkLEUrJZy0vmVtqR2wZa46S46R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d2ef4752-f658-43f2-90a8-7bc6422d0492" name="Default Changelist" comment="" />
+      <created>1630894027074</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630894027074</updated>
+      <workItem from="1630894028377" duration="430000" />
+      <workItem from="1630903044168" duration="5000" />
+      <workItem from="1631496813995" duration="1131000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="634" y="216" key="FileChooserDialogImpl" timestamp="1631496865699">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="634" y="216" key="FileChooserDialogImpl/0.0.1707.920@0.0.1707.920" timestamp="1631496865699" />
+    <state x="355" y="103" key="SettingsEditor" timestamp="1630894101787">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="355" y="103" key="SettingsEditor/0.0.1707.920@0.0.1707.920" timestamp="1630894101787" />
+    <state x="538" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1630903043688">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="538" y="285" key="com.intellij.ide.util.TipDialog/0.0.1707.920@0.0.1707.920" timestamp="1630903043688" />
+    <state x="241" y="156" key="new project wizard" timestamp="1631496888660">
+      <screen x="0" y="0" width="1707" height="920" />
+    </state>
+    <state x="241" y="156" key="new project wizard/0.0.1707.920@0.0.1707.920" timestamp="1631496888660" />
+  </component>
+</project>

@@ -1,0 +1,31 @@
+package AbstractTest.Practise;
+
+/**
+ * @Author Jason
+ * @Date 2021/09/15
+ * @Describe:
+ */
+public class HourlyEmployee extends Employee {
+
+    private int wage;//每小时工资
+    private int hour;//月工作的小时数
+
+    public HourlyEmployee(String name, int number, MyDate birthday) {
+        super(name, number, birthday);
+    }
+
+    public HourlyEmployee(String name, int number, MyDate birthday,int wage,int hour) {
+        super(name, number, birthday);
+        this.wage=wage;
+        this.hour=hour;
+    }
+
+    @Override
+    double earnings() {
+        return wage*hour;
+    }
+
+    public String toString() {
+        return "HourlyEmployee"+"Employee"+super.toString();
+    }
+}
